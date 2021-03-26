@@ -1,10 +1,7 @@
-This project can be found on github [react-redux-boilerplate-code](https://github.com/NikilMunireddy/react-redux-boilerplate-code).
-
 ## Install using 
 
-`npm i react-redux-boilerplate-code`  
+`npx create-react-app iTunes-react-redux-wednesday`  
 
-You can also find on NPM repository  [https://www.npmjs.com/package/react-redux-boilerplate-code](https://www.npmjs.com/package/react-redux-boilerplate-code)
 
 ## Available Scripts
 
